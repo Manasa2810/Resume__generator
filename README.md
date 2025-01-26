@@ -1,7 +1,3 @@
-Here’s a README file for your script:
-
----
-
 # Resume Generator PDF
 
 This Python script allows you to generate a professional resume in PDF format using the `argparse` and `FPDF` libraries. It allows for customization of font size, font color, and background color, and includes sections for education, projects, experience, skills, and extracurricular activities.
